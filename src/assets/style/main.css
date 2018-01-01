@@ -1,0 +1,15 @@
+/*
+* @Author: detailyang
+* @Date:   2017-12-31 22:18:00
+* @Last Modified by:   detailyang
+* @Last Modified time: 2017-12-31 22:19:00
+*/
+
+button {
+  outline:none;
+}
+
+a {
+  text-decoration: none;
+  cursor:pointer;
+}
