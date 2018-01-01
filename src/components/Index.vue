@@ -168,6 +168,7 @@ section.decred {
   background-color: #000;
   color: #fff;
   h1 {
+    margin-top: 0px;
     padding-top: 40px;
   }
   .desc {
