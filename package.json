@@ -4,7 +4,7 @@
   "description": "decred china website",
   "author": "detailyang <detailyang@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/decred-china/decred-china.github.io",
+  "homepage": "https://github.com/decred-china/website",
   "scripts": {
     "deploy": "node ./node_modules/vue-gh-pages/index.js",
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
